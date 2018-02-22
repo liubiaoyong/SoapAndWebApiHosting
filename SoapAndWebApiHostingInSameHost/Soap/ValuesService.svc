@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SoapAndWebApiHostingInSameHost.Soap.ValuesService" CodeBehind="ValuesService.svc.cs" %>
